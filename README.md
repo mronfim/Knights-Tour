@@ -14,4 +14,4 @@ The algorithm I used to solve the knights tour problem uses an accessibility mat
 > 3. Click once more to reset to reset.
 
 ![Screen](./preview.png)
-![Screen](./previewCompleted.png)
+![Screen](./previewComplete.png)
