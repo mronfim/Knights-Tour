@@ -9,6 +9,8 @@ A "closed" tour is described by a tour that finishes with the knight on a square
 The algorithm I used to solve the knights tour problem uses an accessibility matrix. The accessibility matrix keeps track of how many moves can be made from a position. The knight aways looks for the least accessible position to move onto next. This way, it will go through all the hardest spots first. This does not complete a closed tour.
 
 ### How to use it
-> 1. Click on a position on the board to place the knight.
+> 1. Click on a square to place the knight.
 > 2. Click again to start the tour.
 > 3. Click once more to reset to reset.
+
+![Screen](./preview.png)
